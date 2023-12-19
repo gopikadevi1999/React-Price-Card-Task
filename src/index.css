@@ -1,0 +1,57 @@
+h1 {
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  padding: 1.5%;
+}
+
+.row {
+  background: linear-gradient(to right, #0062E6, #33AEFF);
+  padding: 2%;
+  width: 60vw;
+  margin-left: 20%;
+  height: 80vh;
+}
+
+.card {
+  border: none;
+  border-radius: 5%;
+  height: 100%;
+  box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  font-size: smaller;
+}
+
+.card-price {
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+ul li {
+  margin-bottom: 1rem;
+}
+
+.text-muted {
+  opacity: 0.5;
+}
+
+.btn {
+  font-size: 100%;
+  border-radius: 2rem;
+  letter-spacing: 0.1rem;
+  font-weight: bold;
+  padding: 5%;
+  opacity: 0.8;
+}
+
+.card :hover {
+  background-color:aliceblue;
+    border-radius: 5%;
+  
+}
+
+.card :hover .btn {
+  background: #33AEFF !important;
+  border-radius: 2rem !important;
+}
