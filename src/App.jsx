@@ -2,8 +2,8 @@ import React from 'react'
 
 function App() {
   return <>
-    <div classNameName="container">
-      <div classNameName="header">
+    <div className="container">
+      <div className="header">
         <h1>React Card Price</h1>
       </div>
       <div className="row">
@@ -14,10 +14,10 @@ function App() {
               <h6 className="card-price text-center">$0<span className="period">/month</span></h6>
               <hr />
               <ul className="fa-ul">
-                <li><span className="fa-li"><i class="fas fa-check"></i></span>Single User</li>
-                <li><span className="fa-li"><i class="fas fa-check"></i></span>5GB Storage</li>
-                <li><span className="fa-li"><i class="fas fa-check"></i></span>Unlimited Public Projects</li>
-                <li><span className="fa-li"><i class="fas fa-check"></i></span>Community Access</li>
+                <li><span className="fa-li"><i className="fas fa-check"></i></span>Single User</li>
+                <li><span className="fa-li"><i className="fas fa-check"></i></span>5GB Storage</li>
+                <li><span className="fa-li"><i className="fas fa-check"></i></span>Unlimited Public Projects</li>
+                <li><span className="fa-li"><i className="fas fa-check"></i></span>Community Access</li>
                 <li className="text-muted"><span className="fa-li"><i className="fas fa-times"></i></span>Unlimite Private Projects</li>
                 <li className="text-muted"><span className="fa-li"><i className="fas fa-times"></i></span>Dedicate Phone Support</li>
                 <li className="text-muted"><span className="fa-li"><i className="fas fa-times"></i></span>Free Subdomain</li>
@@ -37,13 +37,13 @@ function App() {
               <h6 className="card-price text-center">$9<span className="period">/month</span></h6>
               <hr />
               <ul className="fa-ul">
-                <li><span className="fa-li"><i class="fas fa-check"></i></span>5 Users</li>
-                <li><span className="fa-li"><i class="fas fa-check"></i></span>50GB Storage</li>
-                <li><span className="fa-li"><i class="fas fa-check"></i></span>Unlimited Public Projects</li>
-                <li><span className="fa-li"><i class="fas fa-check"></i></span>Community Access</li>
-                <li><span className="fa-li"><i class="fas fa-check"></i></span>Unlimited Private Projects</li>
-                <li><span className="fa-li"><i class="fas fa-check"></i></span>Dedicated Phone Support</li>
-                <li><span className="fa-li"><i class="fas fa-check"></i></span>Free Subdomain</li>
+                <li><span className="fa-li"><i className="fas fa-check"></i></span>5 Users</li>
+                <li><span className="fa-li"><i className="fas fa-check"></i></span>50GB Storage</li>
+                <li><span className="fa-li"><i className="fas fa-check"></i></span>Unlimited Public Projects</li>
+                <li><span className="fa-li"><i className="fas fa-check"></i></span>Community Access</li>
+                <li><span className="fa-li"><i className="fas fa-check"></i></span>Unlimited Private Projects</li>
+                <li><span className="fa-li"><i className="fas fa-check"></i></span>Dedicated Phone Support</li>
+                <li><span className="fa-li"><i className="fas fa-check"></i></span>Free Subdomain</li>
                 <li className="text-muted"><span className="fa-li"><i className="fas fa-times"></i></span>Monthly Status Reports</li>
               </ul>
               <div className="d-grid">
@@ -59,14 +59,14 @@ function App() {
               <h6 className="card-price text-center">$49<span className="period">/month</span></h6>
               <hr />
               <ul className="fa-ul">
-                <li><span className="fa-li"><i class="fas fa-check"></i></span>Unlimited Users</li>
-                <li><span className="fa-li"><i class="fas fa-check"></i></span>150GB Storage</li>
-                <li><span className="fa-li"><i class="fas fa-check"></i></span>Unlimited Public Projects</li>
-                <li><span className="fa-li"><i class="fas fa-check"></i></span>Community Access</li>
-                <li><span className="fa-li"><i class="fas fa-check"></i></span>Unlimited Private Projects</li>
-                <li><span className="fa-li"><i class="fas fa-check"></i></span>Dedicated Phone Support</li>
-                <li><span className="fa-li"><i class="fas fa-check"></i></span>Free Subdomain</li>
-                <li><span className="fa-li"><i class="fas fa-check"></i></span>Monthly Status Reports</li>
+                <li><span className="fa-li"><i className="fas fa-check"></i></span>Unlimited Users</li>
+                <li><span className="fa-li"><i className="fas fa-check"></i></span>150GB Storage</li>
+                <li><span className="fa-li"><i className="fas fa-check"></i></span>Unlimited Public Projects</li>
+                <li><span className="fa-li"><i className="fas fa-check"></i></span>Community Access</li>
+                <li><span className="fa-li"><i className="fas fa-check"></i></span>Unlimited Private Projects</li>
+                <li><span className="fa-li"><i className="fas fa-check"></i></span>Dedicated Phone Support</li>
+                <li><span className="fa-li"><i className="fas fa-check"></i></span>Free Subdomain</li>
+                <li><span className="fa-li"><i className="fas fa-check"></i></span>Monthly Status Reports</li>
               </ul>
               <div className="d-grid">
                 <a href="#" className="btn btn-primary text-uppercase">Button</a>
